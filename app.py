@@ -9,7 +9,7 @@ session = requests.Session()
 
 # Keys stored in RAM with usage limits
 API_KEYS = {
-    "Black": 9999
+    "xza": 9999
 }
 
 HEADERS = {
